@@ -1,0 +1,1 @@
+Hier habe ich die Coridor Scene von Unity genutzt und alle Lichtquellen, Reflection Rrobes, und light probes die vorhanden waren entfernt und einemal selber die scene in verschieden arten beleuchtet.
