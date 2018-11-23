@@ -1,0 +1,1 @@
+Die exes sollten bei eine Auflösung von 1920 x 1080 gestartet werden, da sich die inhalte sonst verschieben.
